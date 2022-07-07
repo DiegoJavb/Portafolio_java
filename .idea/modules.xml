@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Programacion/ArgumentosVariables/ArgumentosVariables.iml" filepath="$PROJECT_DIR$/Programacion/ArgumentosVariables/ArgumentosVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Aritmetica/Aritmetica.iml" filepath="$PROJECT_DIR$/Fundamentos/Aritmetica/Aritmetica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Arreglos/Arreglos.iml" filepath="$PROJECT_DIR$/Fundamentos/Arreglos/Arreglos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programacion/AutoboxingUnboxing/AutoboxingUnboxing.iml" filepath="$PROJECT_DIR$/Programacion/AutoboxingUnboxing/AutoboxingUnboxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programacion/BloquesInicializacion/BloquesInicializacion.iml" filepath="$PROJECT_DIR$/Programacion/BloquesInicializacion/BloquesInicializacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/ContextoEstatico/ContextoEstatico.iml" filepath="$PROJECT_DIR$/Fundamentos/ContextoEstatico/ContextoEstatico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Encapsulamiento/Encapsulamiento.iml" filepath="$PROJECT_DIR$/Fundamentos/Encapsulamiento/Encapsulamiento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programacion/Enumeraciones/Enumeraciones.iml" filepath="$PROJECT_DIR$/Programacion/Enumeraciones/Enumeraciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programacion/ForEach/ForEach.iml" filepath="$PROJECT_DIR$/Programacion/ForEach/ForEach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Herencia/Herencia.iml" filepath="$PROJECT_DIR$/Fundamentos/Herencia/Herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/HolaMundoJava/HolaMundoJava.iml" filepath="$PROJECT_DIR$/Fundamentos/HolaMundoJava/HolaMundoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Matrices/Matrices.iml" filepath="$PROJECT_DIR$/Fundamentos/Matrices/Matrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programacion/ModificadoresAcceso/ModificadoresAcceso.iml" filepath="$PROJECT_DIR$/Programacion/ModificadoresAcceso/ModificadoresAcceso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/MundoPC/MundoPC.iml" filepath="$PROJECT_DIR$/Fundamentos/MundoPC/MundoPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/PalabraFinal/PalabraFinal.iml" filepath="$PROJECT_DIR$/Fundamentos/PalabraFinal/PalabraFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Paquetes/Paquetes.iml" filepath="$PROJECT_DIR$/Fundamentos/Paquetes/Paquetes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/SobrecargaMetodos/SobrecargaMetodos.iml" filepath="$PROJECT_DIR$/Fundamentos/SobrecargaMetodos/SobrecargaMetodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Ventas/Ventas.iml" filepath="$PROJECT_DIR$/Fundamentos/Ventas/Ventas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Volumen/Volumen.iml" filepath="$PROJECT_DIR$/Fundamentos/Volumen/Volumen.iml" />
+    </modules>
+  </component>
+</project>
