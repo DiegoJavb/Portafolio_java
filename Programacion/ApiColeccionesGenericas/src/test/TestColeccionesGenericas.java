@@ -2,10 +2,10 @@ package test;
 
 import java.util.*;
 
-public class TestColecciones {
+public class TestColeccionesGenericas {
 
     public static void main(String[] args) {
-        List miLista = new ArrayList();
+        List<String> miLista = new ArrayList<>();
         miLista.add("Lunes");
         miLista.add("Martes");
         miLista.add("Miercoles");
@@ -13,7 +13,7 @@ public class TestColecciones {
         miLista.add("Viernes");
         imprimir(miLista);
         System.out.println("....................");
-        Set miSet = new HashSet();
+        Set<String> miSet = new HashSet<>();
         miSet.add("Lunes");
         miSet.add("Martes");
         miSet.add("Miercoles");
@@ -21,18 +21,18 @@ public class TestColecciones {
         miSet.add("Viernes");
         imprimir(miSet);
         System.out.println("..........................");
-        Map miMapa = new HashMap();
+        Map<String, String> miMapa = new HashMap<>();
         miMapa.put("valor1", "Juan");
         miMapa.put("valor2", "Diego");
         miMapa.put("valor3", "Pedro");
 
-        String elemento = (String) miMapa.get("valor1");
-        System.out.println("elemento = " + elemento);
+        String elementoMapa = miMapa.get("valor1");
+        System.out.println("elemento mapa = " + elementoMapa);
         imprimir(miMapa.keySet());
         imprimir(miMapa.values());
     }
 
-    public static void imprimir(Collection miColeccion) {
+    public static void imprimir(Collection<String> miColeccion) {
         miColeccion.forEach(element -> {
             System.out.println("dia = " + element);
         });
